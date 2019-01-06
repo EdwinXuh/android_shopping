@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Shopping</string>
+    <string name="eye_open">&#xeb46;</string>
+    <string name="eye_close">&#xe61d;</string>
+    <string name="password">&#xe64b;</string>
+    <string name="user">&#xe64a;</string>
+    <string name="check_password">记住密码</string>
+    <string name="check_login">自动登陆</string>
+    <string name="login">登陆</string>
+    <string name="register">还没注册?</string>
+    <string name="edit_user">用 \u0020户 \u0020名：</string>
+    <string name="edit_pass">密\u3000\u3000码：</string>
+    <string name="edit_repass">重复密码：</string>
+    <string name="btn_register">注册</string>
+
+    <!--index-->
+    <string name="home">&#xe61e;</string>
+    <string name="message">&#xe61f;</string>
+    <string name="cart">&#xe607;</string>
+    <string name="mine">&#xe61a;</string>
+    <string name="search">&#xe613;</string>
+    <string name="back">&#xe682;</string>
+    <string name="huiyuanma">&#xe77d;</string>
+    <string name="saoyisao">&#xe60c;</string>
+    <string name="didian">&#xe605;</string>
+    <string name="money">&#xe602;</string>
+    <string name="daifukuan">&#xe608;</string>
+    <string name="daifahuo">&#xe649;</string>
+    <string name="daishouhuo">&#xe643;</string>
+    <string name="shouhou">&#xe60b;</string>
+    <string name="shezhi">&#xe610;</string>
+    <string name="rili">&#xe669;</string>
+    <string name="yesheng">&#xe69f;</string>
+    <string name="lingquan">&#xe6b0;</string>
+    <string name="xianzhihuanqian">&#xe609;</string>
+    <string name="kefuxiaomi">&#xe646;</string>
+    <string name="huabei">&#xe630;</string>
+    <string name="aliyuka">&#xe60a;</string>
+    <string name="pingjia">&#xe639;</string>
+    <string name="zhuti">&#xe66f;</string>
+</resources>

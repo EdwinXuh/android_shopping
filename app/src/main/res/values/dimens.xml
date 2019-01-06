@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_width">100dp</dimen>
+    <dimen name="text_high">50dp</dimen>
+    <dimen name="text_size_normal">20dp</dimen>
+    <dimen name="line_height">1.5dp</dimen>
+    <dimen name="margin_normal">10dp</dimen>
+    <!--login界面的基本配置-->
+    <dimen name="login_rela_height">50dp</dimen>
+    <dimen name="login_rela_marginLeft">50dp</dimen>
+    <dimen name="login_rela_marginRight">50dp</dimen>
+    <dimen name="login_rela_marginTop">160dp</dimen>
+
+    <dimen name="login_line_marginLeft">50dp</dimen>
+    <dimen name="login_line_marginRight">50dp</dimen>
+    <dimen name="login_line_marginTop">20dp</dimen>
+
+    <dimen name="login_icon_size">30sp</dimen>
+    <dimen name="login_icon_size_small">20sp</dimen>
+    <dimen name="login_icon_marginLeft">10dp</dimen>
+    <dimen name="login_icon_marginTop">20dp</dimen>
+
+    <!--register界面基本配置-->
+    <dimen name="register_font">18dp</dimen>
+    <dimen name="register_btn">40dp</dimen>
+    <!--index导航栏基本设置-->
+    <dimen name="index_icon_height">30dp</dimen>
+    <dimen name="index_icon_textSize">30dp</dimen>
+    <dimen name="index_text_height">18dp</dimen>
+    <dimen name="index_text_textSize">15dp</dimen>
+</resources>
